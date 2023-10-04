@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "id": 1,
+      "title": "Wood",
+      "available": true
+    },
+    {
+      "id": 2,
+      "title": "Aluminium",
+      "available": true
+    }
+  ],
+  "frames": [
+    {
+      "id": 1,
+      "title": "Frame 1",
+      "price": 289,
+      "currency": "NOK",
+      "picture": "",
+      "available": false,
+      "glassPrice": 99,
+      "glassAvailable": false
+    },
+    {
+      "id": 2,
+      "title": "Frame 2",
+      "price": 299,
+      "currency": "NOK",
+      "picture": "",
+      "available": false,
+      "glassPrice": 119,
+      "glassAvailable": false
+    },
+    {
+      "id": 3,
+      "title": "Frame 3",
+      "price": 199,
+      "currency": "NOK",
+      "picture": "",
+      "available": false,
+      "glassPrice": 129,
+      "glassAvailable": false
+    }
+  ],
+  "passepartout": [
+    {
+      "id": 1,
+      "title": "Passepartout 1",
+      "price": 79,
+      "picture": "",
+      "available": true
+    },
+    {
+      "id": 2,
+      "title": "Passepartout 2",
+      "price": 89,
+      "picture": "",
+      "available": false
+    },
+    {
+      "id": 3,
+      "title": "Passepartout 3",
+      "price": 89,
+      "picture": "",
+      "available": true
+    }
+  ],
+  "materialTypes": [
+    {
+      "id": 1,
+      "title": "Material type 1",
+      "available": true
+    },
+    {
+      "id": 2,
+      "title": "Material type 2",
+      "available": false
+    }, {
+      "id": 3,
+      "title": "Material type 3",
+      "available": false
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
