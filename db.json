@@ -17,7 +17,7 @@
       "title": "Frame 1",
       "price": 289,
       "currency": "NOK",
-      "picture": "",
+      "picture": "https://www.interart.no/rammer4/3902-851_liten.jpg?id=79",
       "available": false,
       "glassPrice": 99,
       "glassAvailable": false
@@ -27,7 +27,7 @@
       "title": "Frame 2",
       "price": 299,
       "currency": "NOK",
-      "picture": "",
+      "picture": "https://www.interart.no/rammer4/6006-56_liten.jpg?id=79",
       "available": false,
       "glassPrice": 119,
       "glassAvailable": false
@@ -37,7 +37,7 @@
       "title": "Frame 3",
       "price": 199,
       "currency": "NOK",
-      "picture": "",
+      "picture": "https://www.interart.no/rammer4/745-495_liten.jpg?id=79",
       "available": false,
       "glassPrice": 129,
       "glassAvailable": false
