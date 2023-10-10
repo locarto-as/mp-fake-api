@@ -49,6 +49,7 @@
       "title": "Passepartout 1",
       "price": 79,
       "picture": "",
+      "width": 50,
       "available": true
     },
     {
@@ -56,6 +57,7 @@
       "title": "Passepartout 2",
       "price": 89,
       "picture": "",
+      "width": 30,
       "available": false
     },
     {
@@ -63,6 +65,7 @@
       "title": "Passepartout 3",
       "price": 89,
       "picture": "",
+      "width": 40,
       "available": true
     }
   ],
@@ -70,15 +73,18 @@
     {
       "id": 1,
       "title": "Material type 1",
+      "price": 700,
       "available": true
     },
     {
       "id": 2,
       "title": "Material type 2",
+      "price": 500,
       "available": false
     }, {
       "id": 3,
       "title": "Material type 3",
+      "price": 800,
       "available": false
     }
   ],
